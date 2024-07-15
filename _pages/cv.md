@@ -16,6 +16,7 @@ Education
 
 Work Experience
 ======
+* Security Researcher, Adobe, 2022
 * Security Intern, Adobe, 2021
 * Computer Scientist Intern, Adobe, 2020
 * Mobile Application Release Engineer, Nike, 2019
