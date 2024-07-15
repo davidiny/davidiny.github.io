@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Computer Science, Johns Hopkins University, 2022-Present
 * M.S. in Information Technology - Information Security, Carnegie Mellon University, 2021
 * B.S. in Information Systems, Carnegie Mellon University, 2020
 
@@ -24,13 +25,13 @@ Work Experience
 
 Teaching Experience
 ======
-* Teaching Assistant - Special Topics: Information Assurance and Security, Carnegie Mellon University, 2019
 * Teaching Assistant - Security and Privacy, Johns Hopkins University, 2024
+* Teaching Assistant - Special Topics: Information Assurance and Security, Carnegie Mellon University, 2019
 
 Awards & Fellowships
 ======
-* National [GEM](https://www.gemfellowship.org) Masters Fellowship, 2020
 * National [GEM](https://www.gemfellowship.org) Doctoral Fellowship, 2021
+* National [GEM](https://www.gemfellowship.org) Masters Fellowship, 2020
 
 Service and leadership
 ======
