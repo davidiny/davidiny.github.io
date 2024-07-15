@@ -12,7 +12,7 @@ title                    : "David Inyangson"
 title_separator          : "-"
 name                     : &name "David Inyangson"
 description              : &description "personal description"
-url                      : https://davidiny.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://davidiny.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "davidiny/davidiny.github.io"
 
