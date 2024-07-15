@@ -11,54 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Information Technology - Information Security, Carnegie Mellon University, 2021
+* B.S. in Information Systems, Carnegie Mellon University, 2020
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Security Intern, Adobe, 2021
+* Computer Scientist Intern, Adobe, 2020
+* Mobile Application Release Engineer, Nike, 2019
+* Cybersecurity Engineer, USAA, 2018
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Teaching Experience
+======
+* Teaching Assistant - Special Topics: Information Assurance and Security, Carnegie Mellon University, 2019
+* Teaching Assistant - Security and Privacy, Johns Hopkins University, 2024
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Awards & Fellowships
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* National [GEM](https://www.gemfellowship.org) Masters Fellowship, 2020
+* National [GEM](https://www.gemfellowship.org) Doctoral Fellowship, 2021
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* [UR2PHD](https://cra.org/ur2phd/) Computing Research Association Mentor, 2024
+ 
