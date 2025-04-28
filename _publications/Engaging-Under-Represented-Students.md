@@ -2,7 +2,6 @@
 title: "Engaging Students from Under-Represented Groups to Pursue Graduate School in Computer Science and Engineering"
 collection: publications
 paperurl: 'https://sigcse2025.sigcse.org/details/sigcse-ts-2025-Papers/182/Engaging-Students-from-Under-Represented-Groups-to-Pursue-Graduate-School-in-Computer'
-date: 2024-11-19
 venue: 'SIGCSE Technical Symposium 2025'
 excerpt: 'To address the lack of diversity in Computer Science and Engineering (CS&E), we held a one-day workshop at a Hispanic-Serving Institution, featuring research presentations, hands-on demos, and discussions with graduate students. The event successfully increased participant interest in graduate studies, with survey results showing significant boosts in enthusiasm for CS&E research and graduate education, highlighting the potential of such events to broaden diversity in the field.'
 ---
