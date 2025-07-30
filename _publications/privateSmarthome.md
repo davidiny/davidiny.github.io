@@ -2,7 +2,7 @@
 title: "Towards a More Secure, Private Smart Home By Eliminating the Central Hub "
 collection: publications
 date: 2024-10-11
-paperurl: 'https://dl.acm.org/doi/10.1145/3734477.3734715'
+paperurl: 'https://ieeexplore.ieee.org/document/10937572'
 venue: '2024 IEEE MIT Undergraduate Research Technology Conference (URTC)'
 excerpt: 'We propose a virtual smart home hub that replaces centralized cloud control and physical hubs, which pose privacy and reliability risks. Our system uses secure multiparty computation to let users define smart home automation without exposing device data or relying on a single point of failure.'
 ---
