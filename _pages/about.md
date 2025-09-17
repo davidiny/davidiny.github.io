@@ -14,27 +14,27 @@ I earned my M.S. in Information Technology-Information Security and my B.S. in I
 **Amigo: Secure Group Mesh Messaging in Realistic Protest Scenarios**  
 `David Inyangson*`, Sarah Radway*, Tushar M. Jois, Nelly Fazio, James Mickens  
 *ACM Conference on Computer and Communications Security 2025 (CCS '25)*  
-:memo: Proceedings (to appear soon!): [Preprint](https://eprint.iacr.org/2024/1872)  
+📝: Proceedings (to appear soon!): [Preprint](https://eprint.iacr.org/2024/1872)  
 *Equal Contribution
 
 **SoK: Security in the Inaudible World**  
 `David Inyangson`, Aditya Gaur, Atheer Almogbil, Tushar M. Jois, Aviel D. Rubin  
 *ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec '25)*  
-:memo: [Proceedings](https://eprint.iacr.org/2024/1872)
+📝 [Proceedings](https://eprint.iacr.org/2024/1872)
 
 **Talk: Mesh Messaging For Large Scale Protests: Cryptography Alone Won't Save Us**  
 `David Inyangson*`, Sarah Radway*, Tushar M. Jois, Nelly Fazio, James Mickens  
 *ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec '25)*  
-:movie_camera: [Video](https://youtu.be/l5lInx9-vP8)  
-:memo: [Slides](https://iacr.org/submit/files/slides/2025/rwc/rwc2025/105/105_slides.pdf)  
+📹 [Video](https://youtu.be/l5lInx9-vP8)  
+📝 [Slides](https://iacr.org/submit/files/slides/2025/rwc/rwc2025/105/105_slides.pdf)  
 *Equal Contribution
 
 **Engaging Students from Under-Represented Groups to Pursue Graduate School in Computer Science and Engineering**  
 Ravindra Mangar, Cesar Arguello, `David Inyangson`, Tina Pavlovich, Karen Gareis, Tushar M. Jois  
 *ACM Technical Symposium on Computer Science Education (SIGCSETS '25)*  
-:memo: [Proceedings](https://dl.acm.org/doi/10.1145/3641554.3701956)
+📝 [Proceedings](https://dl.acm.org/doi/10.1145/3641554.3701956)
 
 **Towards a More Secure, Private Smart Home By Eliminating the Central Hub**  
 Anna Róża Krzyżańska, `David Inyangson`, Tushar M. Jois  
 *IEEE MIT Undergraduate Research Technology Conference (URTC '24)*  
-:memo: [Proceedings](https://ieeexplore.ieee.org/document/10937572)  
+📝 [Proceedings](https://ieeexplore.ieee.org/document/10937572)
