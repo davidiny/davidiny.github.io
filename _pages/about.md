@@ -12,7 +12,7 @@ I earned my M.S. in Information Technology-Information Security and my B.S. in I
 
 ## Publications and Conferences
 **Amigo: Secure Group Mesh Messaging in Realistic Protest Scenarios**  
-`David Inyangson*`, Sarah Radway*, Tushar M. Jois, Nelly Fazio, James Mickens  
+`David Inyangson*`, Sarah Radway\*, Tushar M. Jois, Nelly Fazio, James Mickens  
 *ACM Conference on Computer and Communications Security 2025 (CCS '25)*  
 📝: Proceedings (to appear soon!): [Preprint](https://eprint.iacr.org/2024/1872)  
 *Equal Contribution
@@ -23,8 +23,8 @@ I earned my M.S. in Information Technology-Information Security and my B.S. in I
 📝 [Proceedings](https://eprint.iacr.org/2024/1872)
 
 **Talk: Mesh Messaging For Large Scale Protests: Cryptography Alone Won't Save Us**  
-`David Inyangson*`, Sarah Radway*, Tushar M. Jois, Nelly Fazio, James Mickens  
-*ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec '25)*  
+`David Inyangson*`, Sarah Radway\*, Tushar M. Jois, Nelly Fazio, James Mickens  
+*International Association for Cryptologic Research Real World Crypto (RWC '25)*  
 📹 [Video](https://youtu.be/l5lInx9-vP8)  
 📝 [Slides](https://iacr.org/submit/files/slides/2025/rwc/rwc2025/105/105_slides.pdf)  
 *Equal Contribution
