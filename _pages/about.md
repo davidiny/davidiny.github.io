@@ -20,7 +20,7 @@ I earned my M.S. in Information Technology-Information Security and my B.S. in I
 **SoK: Security in the Inaudible World**  
 `David Inyangson`, Aditya Gaur, Atheer Almogbil, Tushar M. Jois, Aviel D. Rubin  
 *ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec '25)*  
-📝 [Proceedings](https://eprint.iacr.org/2024/1872)
+📝 [Proceedings](https://dl.acm.org/doi/10.1145/3734477.3734715)
 
 **Talk: Mesh Messaging For Large Scale Protests: Cryptography Alone Won't Save Us**  
 `David Inyangson*`, Sarah Radway\*, Tushar M. Jois, Nelly Fazio, James Mickens  
