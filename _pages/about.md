@@ -14,7 +14,7 @@ I earned my M.S. in Information Technology-Information Security and my B.S. in I
 **Amigo: Secure Group Mesh Messaging in Realistic Protest Scenarios**  
 `David Inyangson*`, Sarah Radway\*, Tushar M. Jois, Nelly Fazio, James Mickens  
 *ACM Conference on Computer and Communications Security 2025 (CCS '25)*  
-📝: [Proceedings](https://doi.org/10.1145/3719027.3765133)  
+📝 [Proceedings](https://doi.org/10.1145/3719027.3765133)  
 *Equal Contribution
 
 **SoK: Security in the Inaudible World**  
