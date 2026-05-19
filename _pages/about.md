@@ -11,7 +11,7 @@ Hello 👋🏾. I earned a PhD from Johns Hopkins University in the department o
 I earned my M.S. in Information Technology-Information Security and my B.S. in Information Systems from [Carnegie Mellon University](https://www.cmu.edu).  After graduating, I worked at [Adobe](https://www.adobe.com/documentcloud.html) as a security researcher for the Document Cloud.  In my free time, I enjoy tutoring high-school students interested in pursuing cybersecurity careers through [LognCoding](https://www.logncoding.com/index.html) as well as performing security consulting.  I'm also working on building next-gen cybersecurity tools at [TanDev](https://academy.tandev.us/).
 
 ## Preprints
-**ThriftyMPC: Reducing the Cost of Large-Scale MPC in the Coud**   
+**ThriftyMPC: Reducing the Cost of Large-Scale MPC in the Cloud**   
 `David Inyangson`, Tushar M. Jois, Rosario Gennaro, Gamze Gursoy, Gabriel Kaptchuk, Moti Yung, Diogo Barradas  
 *Cryptology ePrint Archive*  
 📝 [Preprint](https://eprint.iacr.org/2026/977)
