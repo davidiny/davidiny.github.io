@@ -13,7 +13,7 @@ I earned my M.S. in Information Technology-Information Security and my B.S. in I
 ## Preprints
 **ThriftyMPC: Reducing the Cost of Large-Scale MPC in the Cloud**   
 `David Inyangson`, Tushar M. Jois, Rosario Gennaro, Gamze Gursoy, Gabriel Kaptchuk, Moti Yung, Diogo Barradas  
-*Cryptology ePrint Archive*  
+*Cryptology ePrint Archive, 2026*  
 📝 [Preprint](https://eprint.iacr.org/2026/977)
 
 ## Publications and Conferences
