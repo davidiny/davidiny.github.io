@@ -11,7 +11,9 @@ Hello 👋🏾. I earned a PhD from Johns Hopkins University in the department o
 I earned my M.S. in Information Technology-Information Security and my B.S. in Information Systems from [Carnegie Mellon University](https://www.cmu.edu).  After graduating, I worked at [Adobe](https://www.adobe.com/documentcloud.html) as a security researcher for the Document Cloud.  In my free time, I enjoy tutoring high-school students interested in pursuing cybersecurity careers through [LognCoding](https://www.logncoding.com/index.html) as well as performing security consulting.
 
 ### News 📢
-I'll be presenting a talk on Zero Knowledge Proofs during the [Cryptolets Workshop](https://cryptolets.org/) at [ISCA '26](https://iscaconf.org/isca2026/)!
+I'm honored to serve as a P.C member for [IEEE S&P '27](https://sp2027.ieee-security.org/cfpapers.html).
+I'll be presenting a talk on Zero Knowledge Proofs during the [Cryptolets Workshop](https://cryptolets.org/) at [ISCA '26](https://iscaconf.org/isca2026/)! 
+
 
 
 ## Preprints
