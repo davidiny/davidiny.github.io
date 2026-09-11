@@ -2,6 +2,7 @@
 title: "What the 'Flock'!"
 date: 2026-08-20
 permalink: /blog/flock-post/
+excerpt: "My thoughts on Flock cameras"
 tags:
   - MPC
   - Cryptography
