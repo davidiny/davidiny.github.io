@@ -12,7 +12,7 @@ redirect_from:
     <p class="eyebrow">Postdoctoral Researcher &middot; City College of New York</p>
     <h1 class="hero__name">David Inyangson</h1>
     <p class="hero__edu">Ph.D., Computer Science &mdash; Johns Hopkins University, Baltimore, MD</p>
-    <p class="hero__bio">I build privacy-preserving communication systems and tools. I apply cryptography to problems enhance anonymity and security guaranties of real-life applications. I was advised by <a href="https://engineering.jhu.edu/faculty/aviel-rubin/">Aviel Rubin</a> and <a href="https://tjo.is">Tushar Jois</a>.</p>
+    <p class="hero__bio">I build privacy-preserving communication systems and tools. I use cryptography to enhance the anonymity and security guaranties of real-world applications. I was advised by <a href="https://engineering.jhu.edu/faculty/aviel-rubin/">Aviel Rubin</a> and <a href="https://tjo.is">Tushar Jois</a>.</p>
     <p class="hero__meta">New York, NY &nbsp;&middot;&nbsp; <a href="mailto:dinyang1@jh.edu">dinyangson@ccny.cuny.edu</a></p>
     <div class="pill-row">
       <a class="pill" href="mailto:dinyangson@ccny.cuny.edu">Email</a>
