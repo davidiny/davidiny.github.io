@@ -24,9 +24,9 @@ author:
   avatar           : "MyfaceUpdated.png"
   name             : "David Inyangson"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D in Computer Science"
-  location         : "Baltimore, Maryland"
-  employer         : "Johns Hopkins University"
+  bio              : "Postdoctoral Researcher"
+  location         : "New York, NY"
+  employer         : "City College of New York"
   uri              : # URL
   email            : "dinyang1@jh.edu" 
 
@@ -222,7 +222,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -233,7 +233,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _teaching
   - scope:
       path: ""

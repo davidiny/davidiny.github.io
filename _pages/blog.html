@@ -1,21 +1,28 @@
 ---
+layout: home
 title: "Blog"
 permalink: /blog/
-author_profile: true
 ---
 
-{% for post in site.posts %}
-  <article class="archive__item">
-    <h2 class="archive__item-title">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </h2>
+<div class="page-head">
+  <h1 class="page-head__title">Blog</h1>
+</div>
 
-    <p>
-      <small>{{ post.date | date: "%B %-d, %Y" }}</small>
-    </p>
-
-    {% if post.excerpt %}
-      <p>{{ post.excerpt }}</p>
-    {% endif %}
-  </article>
-{% endfor %}
+<div class="section" style="border-top: none;">
+  <div class="pub-list">
+    {% for post in site.posts %}
+    <div class="pub-row">
+      <div class="pub-row__venue">{{ post.date | date: "%b %-d, %Y" }}</div>
+      <div class="pub-row__body">
+        <a class="pub-row__title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        {% if post.excerpt %}<div class="pub-row__excerpt">{{ post.excerpt | strip_html }}</div>{% endif %}
+        {% if post.tags %}
+        <div class="tag-row">
+          {% for tag in post.tags %}<span class="tag">{{ tag }}</span>{% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
