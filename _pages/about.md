@@ -12,7 +12,7 @@ redirect_from:
     <p class="eyebrow">Postdoctoral Researcher &middot; City College of New York</p>
     <p class="eyebrow">Head of Cryptography &middot; ParetoX</p>
     <h1 class="hero__name">David Inyangson</h1>
-    <p class="hero__bio">I build privacy-preserving communication systems and tools. I use cryptography to enhance the anonymity and security guarantees of real-world applications. I received my PhD in Computer Science from <a href="https://www.jhu.edu/">Johns Hopkins University</a> under my advisor <a href="https://engineering.jhu.edu/faculty/aviel-rubin/">Aviel Rubin</a> and co-advisor<a href="https://tjo.is">Tushar Jois</a>. My postdoctoral advisor is <a href="https://tjo.is">Tushar Jois</a>.</p>
+    <p class="hero__bio">I build privacy-preserving communication systems and tools. I use cryptography to enhance the anonymity and security guarantees of real-world applications. I received my PhD in Computer Science from <a href="https://www.jhu.edu/">Johns Hopkins University</a> under my advisor <a href="https://engineering.jhu.edu/faculty/aviel-rubin/">Aviel Rubin</a> and co-advisor <a href="https://tjo.is">Tushar Jois</a>. My postdoctoral advisor is <a href="https://tjo.is">Tushar Jois</a>.</p>
     <p class="hero__meta">New York, NY &nbsp;&middot;&nbsp; <a href="mailto:dinyang1@jh.edu">dinyangson@ccny.cuny.edu</a></p>
     <div class="pill-row">
       <a class="pill" href="mailto:dinyangson@ccny.cuny.edu">Email</a>
@@ -30,9 +30,9 @@ redirect_from:
   <h2 class="section__title">News</h2>
   <ul class="news-list">
     <li>I'm excited to be joining <a href="paretox.com">ParetoX</a> as the Head of Cryptography</li>
-    <li>Gave a guest lecture on the Rust programming language for Prof. Jois&rsquo; <a href="https://tjo.is/teaching/sse-fa26/">Secure Systems Engineering</a>course</li>
-    <li>Serving as a P.C. member for IEEE S&amp;P &rsquo;27.</li>
-    <li>Presenting on Zero-Knowledge Proofs at the Cryptolets Workshop, ISCA &rsquo;26.</li>
+    <li>Presented a guest lecture on the Rust programming language for Prof. Jois&rsquo; <a href="https://tjo.is/teaching/sse-fa26/">Secure Systems Engineering</a> course</li>
+    <li>Serving as a P.C. member for IEEE S&amp;P &rsquo;27</li>
+    <li>Presenting on Zero-Knowledge Proofs at the Cryptolets Workshop, ISCA &rsquo;26</li>
   </ul>
 </section>
 
