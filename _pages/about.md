@@ -29,7 +29,7 @@ redirect_from:
 <section class="section">
   <h2 class="section__title">News</h2>
   <ul class="news-list">
-    <li>Presented a guest lecture on Secure Multi-Party Computation for Prof. Gennaro&rsquo;s <a href"https://sites.google.com/view/csci-80030/home">Fairness and Ethics in Algorithms</a> course</li>
+    <li>Presented a guest lecture on Secure Multi-Party Computation for Prof. Gennaro&rsquo;s <a href="https://sites.google.com/view/csci-80030/home">Fairness and Ethics in Algorithms</a> course</li>
     <li>I'm excited to be joining <a href="https://paretox.com">ParetoX</a> as the Head of Cryptography</li>
     <li>Presented a guest lecture on the Rust programming language for Prof. Jois&rsquo; <a href="https://tjo.is/teaching/sse-fa26/">Secure Systems Engineering</a> course</li>
     <li>Serving as a P.C. member for IEEE S&amp;P &rsquo;27</li>
